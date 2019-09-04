@@ -1,3 +1,4 @@
+You have a div between your section and aside? Score : 4
 # html-position_type_updated-cw
 
 Create a similar structure of the iamge attached. Make sure header, section, aside, and footer is include. Exclude the article tag.
